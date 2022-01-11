@@ -34,3 +34,9 @@ Settings like the COM port on which the GD32 device is available will be auto-de
 It is normal to get the first few shares REJECTED as they're on a too low difficulty and the hash-rate too high. The Kolka balancing will kick in shortly.
 
 Currently, the `GD32_Miner.py` reports the board type as ESP32 as the hash-rate is the closest to the [currently listed types](https://github.com/Bilaboz/duino-coin-pools/blob/main/config/poolRewards.json). This may be subject to change. Kolka balancing does currently not make this an issue, but it would still be ne nice to have its own category.
+
+## Mining Hardware
+
+### GD32E503C-START
+
+![board](board.png)
