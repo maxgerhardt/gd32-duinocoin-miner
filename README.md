@@ -2,7 +2,7 @@
 
 ## Description
 
-Contains the firmware and miner software for minign [DUCO (Duino-Coin)](https://github.com/revoxhere/duino-coin) on GigaDevice GD32 chips. 
+Contains the firmware and miner software for mining [DUCO (Duino-Coin)](https://github.com/revoxhere/duino-coin) on GigaDevice GD32 chips. 
 
 ## Supported boards
 
