@@ -6,7 +6,7 @@ Contains the firmware and miner software for mining [DUCO (Duino-Coin)](https://
 
 ## Supported boards
 
-* [GD32E503C-START](https://www.aliexpress.com/item/1005003224840104.html) (GD32E503CET6)
+* [GD32E503C-START](https://www.aliexpress.com/item/1005003224840104.html) (GD32E503CET6, ARM Cortex-M33 @ 180 MHz)
 * more GD32 boards to come and to be tested
 
 ## Compiling the firmware
