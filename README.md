@@ -15,9 +15,9 @@ Use the [PlatformIO](https://platformio.org/) build system to compile the firmwa
 
 ## Performance
 
-| Device        | Hashrat       | Profit (ᕲ/day)  |
+| Device        | Hashrate      | Profit (ᕲ/day)  |
 | ------------- |:-------------:| -----:|
-| GD32E503CE    | 42.9 kH/s     | to be measured |
+| GD32E503CE    | 42.9 kH/s     | 0.3 ᕲ/day |
 
 ## Mining
 
