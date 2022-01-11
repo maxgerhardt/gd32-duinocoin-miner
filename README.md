@@ -6,12 +6,12 @@ Contains the firmware and miner software for minign [DUCO (Duino-Coin)](https://
 
 ## Supported boards
 
-* GD32E503C-START (GD32E503CET6)
-* more to come
+* [GD32E503C-START](https://www.aliexpress.com/item/1005003224840104.html) (GD32E503CET6)
+* more GD32 boards to come and to be tested
 
 ## Compiling the firmware
 
-Use the [PlatformIO]() build system to compile the firmware. You also see the steps at related projects like [here](https://github.com/CommunityGD32Cores/gd32-pio-projects#importing-examples).
+Use the [PlatformIO](https://platformio.org/) build system to compile the firmware. You also see the steps at related projects like [here](https://github.com/CommunityGD32Cores/gd32-pio-projects#importing-examples).
 
 ## Performance
 
