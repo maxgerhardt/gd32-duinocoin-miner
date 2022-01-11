@@ -17,7 +17,7 @@ Use the [PlatformIO](https://platformio.org/) build system to compile the firmwa
 
 | Device        | Hashrate      | Profit (ᕲ/day)  |
 | ------------- |:-------------:| -----:|
-| GD32E503CE    | 42.9 kH/s     | 0.3 ᕲ/day |
+| GD32E503CE    | 42.9 kH/s     | ≈0.3 ᕲ/day |
 
 ## Mining
 
